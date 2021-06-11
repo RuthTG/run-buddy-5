@@ -4,7 +4,6 @@ body {
         /* I'm a CSS comment! */
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
-   background-color: rgb(89, 71, 255);
   
 }
 
@@ -92,3 +91,15 @@ header {
   footer a {
       color: #024e76;
   }
+
+
+
+
+    /*Add style to section hero*/
+    .hero{
+       
+        background-image: url("../images/hero-bg.jpg");
+        height:600px;
+    }
+/*finish style to section hero*/
+
