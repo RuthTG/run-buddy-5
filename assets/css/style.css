@@ -150,3 +150,16 @@ header {
 .hero-form label{
     margin: 0 5px;
 }
+
+
+/*style the button*/
+
+.hero-form button{
+    background-color: #024e76;
+    font-size: 16px;
+    color: #fce138;
+    border: none;
+    padding: 10px 20px;
+
+}
+/*finish to style the button*/
