@@ -13,4 +13,4 @@ https://ruthtg.github.io/run-buddy-5/
 ## Contribution
 Made with ❤️ by [RUTH TG]
 
-### ©️2019 Run Buddy, Inc 
+### ©️2021 Run Buddy, Inc 
