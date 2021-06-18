@@ -1,4 +1,4 @@
-# run-buddy-5
+# run-buddy-5, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://ruthtg.github.io/run-buddy-5/
 
 ## Contribution
 Made with ❤️ by [RUTH TG]
+
+### ©️2019 Run Buddy, Inc 
